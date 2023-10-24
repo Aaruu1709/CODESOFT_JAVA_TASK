@@ -1,7 +1,8 @@
 # CODESOFT_JAVA_TASK
 CodeSoft Java Internship Tasks
-___________________________________________________________________________________________________________________________
-*****************************  TASK 1- NUMBER GUESSING GAME  ***********************************************
+________________________________________________________________________________________________
+*****************************  TASK 1- NUMBER GUESSING GAME  *******************************************
+
 //  Here's how you can play the simplified number guessing game:
 
 // 1. **Start the Game:** Run the Java program. You'll see the welcome message and instructions.
