@@ -26,6 +26,11 @@ ________________________________________________________________________________
 // Remember one point only , the main goal is to guess the correct number with as few attempts as possible to improve your score. thats so nice game ..i like so much and its too much interesting game. my experince was so good at first time i develop this type of application using java and all credits go to CodeSoft.Thank you so much. I Improve my lots of knowledge by using this. A'm so thankful. This is greatful Opportunity to everyone, Everyone has to do this intership so nice undersatndable experience is happening to me.okay bye.have a nice fun ahead. 
 
 
+output-
+--------------------------------------------
+![number game](https://github.com/Aaruu1709/CODESOFT_JAVA_TASK/assets/102209037/f0b7f175-aeb9-4050-974c-a7748c7a9633)
+
+
 ___________________________________________________________________________________________________________________________________
 ***************************   TASK 2- STUDENT GRADE CALCULATOR  **************************************
 
@@ -49,6 +54,11 @@ ________________________________________________________________________________
 
 // It's a quick tool to figure out your grades based on the marks you've received in your subjects.
 
+output-
+----------------------------------------------
+![studentmgnt](https://github.com/Aaruu1709/CODESOFT_JAVA_TASK/assets/102209037/e3ab7d78-face-4272-8dbb-cd17bcc44ecc)
+
+
 ________________________________________________________________________________________________________________________
 
 **********************  TASK 3- ATM INTERFACE ***************************
@@ -58,6 +68,13 @@ ________________________________________________________________________________
 // deposit money,
 //  and withdraw money.
 //   It's a  program that should help you understand the basic structure of such a particular ATM SYSTEM.
+
+output-
+----------------------------------------
+![atm1](https://github.com/Aaruu1709/CODESOFT_JAVA_TASK/assets/102209037/64af3f48-8428-4337-9563-2634a5309f3a)
+
+![Atm2](https://github.com/Aaruu1709/CODESOFT_JAVA_TASK/assets/102209037/9ff85faa-4b82-4ff8-85d8-1a894755cb1d)
+
 ___________________________________________________________________________________________________________________________
 
 ************************************    STUDENT MANAGEMENT SYSTEM    ************************************
@@ -82,4 +99,12 @@ database.
 adding a new student, editing an existing student's information, searching for a student, displaying all
 students, and exiting the application.
 6. Implement input validation to ensure that required fields are not left empty and that the student
-data is in the correct forma
+data is in the correct format.
+
+
+output-
+--------------------------------------
+![stu1](https://github.com/Aaruu1709/CODESOFT_JAVA_TASK/assets/102209037/1669c85c-ec76-4093-ab88-a1c09711a6b2)
+
+![stud2](https://github.com/Aaruu1709/CODESOFT_JAVA_TASK/assets/102209037/d1a183e3-328f-4314-9739-c6649e52a121)
+
